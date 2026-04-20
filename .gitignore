@@ -1,0 +1,57 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.ko
+
+# Library files
+*.a
+*.so
+*.so.*
+*.dylib
+*.lib
+
+# Executable files
+*.sh
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Dependency files
+*.d
+
+# Build directories
+build/
+dist/
+bin/
+
+# OS specific
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# C specific
+*.c.swp
+core
